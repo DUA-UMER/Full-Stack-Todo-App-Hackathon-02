@@ -191,13 +191,6 @@ APP_PORT=8000
 FRONTEND_URL=http://localhost:3000
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -206,12 +199,7 @@ This project is licensed under the MIT License.
 - Charts by [Recharts](https://recharts.org)
 
 
-## 📞 Support
-
-For issues and questions, please open an issue on GitHub.
-
 ---
 
 **Project Status**: Phases 1-3 Complete ✅ | Modern full-stack todo application with AI integration
 
-**Made with ❤️ using Claude Code**
